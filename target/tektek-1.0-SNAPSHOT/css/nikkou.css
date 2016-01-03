@@ -1,0 +1,91 @@
+
+a{
+    margin: 0px;
+    height: 100%;
+}
+
+.button_wrapper{
+    text-align:center;
+    margin-top: 5px;
+}
+.btn btn-primary{
+    margin-right: 5px;
+}
+
+.menu{
+    width: 25%;
+    height: 60px;
+    line-height: 5em;
+    text-align:center;
+    font-weight: bold;
+    border-width: 1px;
+    margin-top: -10px;
+    border-color: #f0f0f0;
+    -webkit-appearance:none;
+    -moz-appearance: none;
+	appearance: none;
+    padding: auto;
+    border: 1px solid #999;
+	background: #eee;
+	background: url(../img/star.png) center 20% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
+	background-size: 20px, 100%;
+}
+.menu1{
+    width: 24%;
+    height: 60px;
+    line-height: 5em;
+    text-align:center;
+    font-weight: bold;
+    border-width: 1px;
+    margin-top: -10px;
+    border-color: #f0f0f0;
+    -webkit-appearance:none;
+    -moz-appearance: none;
+	appearance: none;
+    padding: auto;
+    border: 1px solid #999;
+	background: #eee;
+	background: url(../img/search.png) center 20% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
+	background-size: 20px, 100%;
+}
+.menu2{
+    width: 24%;
+    height: 60px;
+    line-height: 5em;
+    text-align:center;
+    font-weight: bold;
+    font-size: 12px;
+    border-width: 1px;
+    margin-top: -10px;
+    border-color: #f0f0f0;
+    -webkit-appearance:none;
+    -moz-appearance: none;
+	appearance: none;
+    padding: auto;
+    border: 1px solid #999;
+	background: #eee;
+	background: url(../img/road.png) center 20% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
+	background-size: 20px, 100%;
+}
+.menu3{
+    width: 25%;
+    height: 60px;
+    line-height: 5em;
+    text-align:center;
+    font-weight: bold;
+    border-width: 1px;
+    margin-top: -10px;
+    border-color: #f0f0f0;
+    -webkit-appearance:none;
+    -moz-appearance: none;
+	appearance: none;
+    padding: auto;
+    border: 1px solid #999;
+	background: #eee;
+	background: url(../img/share.png) center 20% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
+	background-size: 20px, 100%;
+}
+
+#stars {
+    text-align: center;
+}

@@ -1,0 +1,56 @@
+.samplef{
+	
+	text-align:center;
+}
+textarea.samplet {
+	resize: vertical;
+    width:380px;
+	height:90px;
+	max-height:400px;
+    min-height:30px;
+    margin-top: 10px;
+	margin-bottom:10px;
+    
+	border-radius: 5px;         /* CSS3 */
+	-moz-border-radius: 5px;    /* Firefox */
+	-webkit-border-radius: 5px; /* Safari,Chrome */
+	border:1px solid #333;
+	background:#fff;
+	color:#fff;
+}
+textarea.samplet:hover {
+	border:1px solid #777;
+}
+input.sampleb{
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 #F8F8F8;
+    color: #777 !important;
+    cursor: pointer;
+    display: inline-block;
+	padding:0 5px;
+    font-size: 14px;
+    margin: 0;
+    overflow: hidden;
+	
+/display:inline;
+/zoom:1;
+}
+input.samplec{
+	margin-right:5px;
+}
+
+.selected{
+    margin-top: 5px;
+}
+
+.samplef .show{
+	display:none;
+}
+.selected textarea.samplet{
+	height:100px;
+}
+.selected .show{
+	display:block;
+}
